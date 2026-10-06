@@ -1,0 +1,8 @@
+{
+  "name": "Remix SunoWave - Tải Nhạc Suno AI \u0026 Downloader",
+  "description": "Công cụ tải nhạc Suno AI chất lượng cao (MP3, MP4 video, ảnh bìa HD, lời bài hát LRC và metadata). Hỗ trợ tải hàng loạt và trình phát nhạc trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
